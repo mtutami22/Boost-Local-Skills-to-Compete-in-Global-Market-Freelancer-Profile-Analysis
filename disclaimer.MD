@@ -2,11 +2,11 @@
 ```This is a portfolio project created for demonstration purposes only. The analysis, insights, and recommendations presented are based on simulated data and should not be used for real-world business decisions or policy-making.```
 
 # Data Source
-```- Dataset obtained from Kaggle (public repository)
+```Dataset obtained from Kaggle (public repository)
 
-- Data is fictional and does not represent actual freelancer information.
+Data is fictional and does not represent actual freelancer information.
 
-- https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset```
+https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset```
 
 # Limitations
 ```- Analysis results are based on sample data and may not reflect true market conditions.
@@ -34,3 +34,4 @@
 # Contact
 
 ```For questions about this portfolio project, please contact: karier.mtutami22@gmail.com / +6285766222502```
+
