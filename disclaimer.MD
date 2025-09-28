@@ -13,7 +13,7 @@
 
 - Statistical significance testing was not conducted due to the nature of dummy data.
 
-- Conclusions are illustrative and intended to demonstrate analytical capabilities only.
+- Conclusions are illustrative and intended to demonstrate analytical capabilities only.```
 
 # Purpose
 ```- This project serves to showcase:
@@ -32,4 +32,5 @@
 ```This project is for educational and portfolio purposes only. It is not intended for commercial use, investment decisions, or policy development.```
 
 # Contact
+
 ```For questions about this portfolio project, please contact: karier.mtutami22@gmail.com / +6285766222502```
