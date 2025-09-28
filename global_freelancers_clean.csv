@@ -1,0 +1,1001 @@
+freelancer_ID,gender,age,country,language,primary_skill,years_of_experience,hourly_rate_USD,rating,is_active,client_satisfaction
+FL250001,female,52,Italy,Italian,Blockchain Development,11,100,2.5,no,79
+FL250002,female,52,Australia,English,Mobile Apps,34,100,3.3,yes,79
+FL250003,untold,53,Germany,German,Graphic Design,31,50,0.0,no,79
+FL250004,female,38,Australia,English,Web Development,4,40,1.5,no,79
+FL250005,untold,53,Germany,German,Web Development,27,30,4.8,no,79
+FL250006,untold,59,Netherlands,Dutch,AI,14,30,2.4,no,79
+FL250007,male,52,Indonesia,Indonesian,Data Analysis,10,75,3.1,no,79
+FL250008,untold,43,Italy,Italian,Blockchain Development,14,40,4.6,no,79
+FL250009,untold,26,United States,English,Blockchain Development,4,52,4.0,yes,79
+FL250010,male,52,Turkey,Turkish,AI,22,50,2.5,yes,79
+FL250011,male,40,United Kingdom,English,Data Analysis,17,40,3.6,yes,79
+FL250012,female,55,Argentina,Spanish,UI/UX Design,15,52,2.5,yes,79
+FL250013,female,57,United Kingdom,English,Cybersecurity,18,52,2.0,no,79
+FL250014,male,38,Argentina,Spanish,Graphic Design,20,75,2.9,yes,79
+FL250015,male,50,Germany,German,Data Analysis,22,75,3.7,yes,79
+FL250016,male,42,Japan,Japanese,Data Analysis,0,30,1.2,no,79
+FL250017,female,39,Australia,English,DevOps,13,30,2.5,no,79
+FL250018,male,56,India,Hindi,Blockchain Development,11,52,2.5,unknown,79
+FL250019,male,56,United States,English,UI/UX Design,31,50,1.1,no,79
+FL250020,male,57,Italy,Italian,Web Development,3,100,1.8,yes,79
+FL250021,male,40,Indonesia,Indonesian,AI,9,50,1.8,no,79
+FL250022,male,51,Japan,Japanese,DevOps,11,52,2.4,no,79
+FL250023,male,51,Brazil,Portuguese,Cybersecurity,21,30,4.7,no,79
+FL250024,untold,51,South Korea,Korean,Machine Learning,15,50,1.3,yes,79
+FL250025,female,54,Indonesia,Indonesian,Machine Learning,13,75,2.9,unknown,92
+FL250026,female,22,South Korea,Korean,DevOps,0,30,1.2,yes,79
+FL250027,untold,34,Japan,Japanese,Blockchain Development,8,20,0.0,yes,79
+FL250028,female,36,Russia,Russian,Graphic Design,11,52,1.8,yes,79
+FL250029,untold,47,Canada,English,AI,22,30,1.3,no,79
+FL250030,female,41,Netherlands,Dutch,Data Analysis,14,75,1.2,no,79
+FL250031,male,22,Netherlands,Dutch,DevOps,4,52,1.0,yes,79
+FL250032,male,38,France,French,Machine Learning,19,100,4.2,no,79
+FL250033,male,46,Egypt,Arabic,AI,9,20,1.4,yes,79
+FL250034,untold,40,South Korea,Korean,AI,9,40,2.4,yes,82
+FL250035,female,54,United States,English,Web Development,32,75,1.0,yes,79
+FL250036,untold,52,South Korea,Korean,Web Development,28,20,2.5,no,79
+FL250037,female,42,Japan,Japanese,Mobile Apps,6,40,2.5,no,79
+FL250038,female,29,Netherlands,Dutch,Graphic Design,10,40,2.2,no,79
+FL250039,female,42,South Africa,Afrikaans,Mobile Apps,23,50,3.2,yes,79
+FL250040,male,60,Japan,Japanese,Web Development,13,20,3.6,no,79
+FL250041,female,59,United Kingdom,English,AI,3,50,0.0,no,79
+FL250042,female,21,Canada,English,Web Development,0,30,2.7,yes,79
+FL250043,female,35,Germany,German,DevOps,10,50,0.0,no,79
+FL250044,untold,41,United Kingdom,English,Data Analysis,11,20,2.8,yes,79
+FL250045,female,51,Netherlands,Dutch,Machine Learning,23,20,2.5,no,79
+FL250046,untold,41,South Africa,Afrikaans,Web Development,9,75,4.9,yes,79
+FL250047,female,47,Egypt,Arabic,DevOps,15,30,4.5,yes,79
+FL250048,untold,25,China,Mandarin,Graphic Design,4,50,2.7,no,79
+FL250049,female,25,Mexico,Spanish,Mobile Apps,7,20,1.9,no,79
+FL250050,male,29,Netherlands,Dutch,UI/UX Design,1,20,1.4,yes,79
+FL250051,female,23,Argentina,Spanish,Cybersecurity,0,75,1.9,yes,79
+FL250052,untold,31,France,French,Data Analysis,8,50,3.4,no,79
+FL250053,male,51,Germany,German,Machine Learning,33,75,3.3,unknown,79
+FL250054,male,40,Spain,Spanish,UI/UX Design,1,30,0.0,no,79
+FL250055,female,29,Turkey,Turkish,Cybersecurity,11,100,2.3,yes,79
+FL250056,male,50,United Kingdom,English,AI,15,52,2.0,yes,79
+FL250057,female,26,United Kingdom,English,DevOps,8,50,1.3,no,79
+FL250058,male,38,Canada,English,AI,17,40,4.0,yes,79
+FL250059,female,23,India,Hindi,Mobile Apps,11,75,3.6,yes,79
+FL250060,female,51,South Africa,Afrikaans,DevOps,28,40,3.9,no,79
+FL250061,female,51,Indonesia,Indonesian,AI,33,75,0.0,yes,79
+FL250062,male,47,Germany,German,AI,18,75,0.0,no,79
+FL250063,female,34,Russia,Russian,UI/UX Design,16,20,2.3,yes,79
+FL250064,female,58,Indonesia,Indonesian,Data Analysis,35,50,4.7,no,79
+FL250065,female,50,Russia,Russian,AI,14,52,3.5,yes,79
+FL250066,female,34,Spain,Spanish,Web Development,12,40,2.4,yes,64
+FL250067,female,45,Brazil,Portuguese,AI,11,75,4.0,no,79
+FL250068,female,55,Brazil,Portuguese,Web Development,0,40,0.0,yes,79
+FL250069,male,40,Argentina,Spanish,UI/UX Design,6,100,1.5,no,79
+FL250070,female,60,China,Mandarin,UI/UX Design,38,20,2.0,no,79
+FL250071,female,33,South Africa,Afrikaans,Mobile Apps,11,52,2.5,yes,79
+FL250072,male,60,Italy,Italian,DevOps,13,50,1.0,no,79
+FL250073,male,40,United States,English,Web Development,9,100,4.5,yes,79
+FL250074,male,59,Australia,English,Blockchain Development,4,52,1.9,no,88
+FL250075,male,36,Italy,Italian,Machine Learning,14,100,3.7,no,79
+FL250076,male,32,India,Hindi,Data Analysis,11,30,1.9,yes,79
+FL250077,untold,59,Australia,English,AI,9,75,4.0,yes,96
+FL250078,female,54,Spain,Spanish,DevOps,32,40,1.8,no,79
+FL250079,female,37,Canada,English,Graphic Design,9,52,0.0,yes,79
+FL250080,male,54,India,Hindi,Machine Learning,21,100,4.6,no,79
+FL250081,female,33,Argentina,Spanish,UI/UX Design,12,100,3.6,no,79
+FL250082,female,25,Egypt,Arabic,Web Development,7,40,4.4,unknown,81
+FL250083,male,40,China,Mandarin,DevOps,3,40,4.6,no,79
+FL250084,untold,35,South Korea,Korean,Web Development,5,75,3.2,no,79
+FL250085,male,59,South Korea,Korean,AI,30,40,0.0,yes,79
+FL250086,untold,21,China,Mandarin,DevOps,2,100,2.6,yes,79
+FL250087,male,25,United States,English,Mobile Apps,2,75,3.7,no,79
+FL250088,female,38,Mexico,Spanish,Web Development,19,75,2.3,no,79
+FL250089,male,57,Russia,Russian,AI,16,100,3.1,no,79
+FL250090,male,32,India,Hindi,Mobile Apps,10,20,2.4,no,79
+FL250091,untold,21,Italy,Italian,DevOps,2,100,1.6,yes,79
+FL250092,female,57,Canada,English,Cybersecurity,18,50,2.4,yes,79
+FL250093,untold,53,China,Mandarin,UI/UX Design,21,100,2.5,yes,79
+FL250094,male,35,Russia,Russian,Blockchain Development,3,30,3.8,yes,79
+FL250095,female,54,China,Mandarin,Machine Learning,17,20,1.7,no,79
+FL250096,female,36,Italy,Italian,UI/UX Design,0,20,1.3,yes,79
+FL250097,female,49,Spain,Spanish,Cybersecurity,25,50,5.0,no,79
+FL250098,male,37,United States,English,Blockchain Development,17,20,3.3,no,96
+FL250099,male,40,United States,English,UI/UX Design,5,20,1.1,no,79
+FL250100,male,32,Egypt,Arabic,UI/UX Design,10,50,1.2,no,79
+FL250101,male,35,India,Hindi,Mobile Apps,0,52,2.0,yes,79
+FL250102,female,51,Russia,Russian,Graphic Design,2,30,4.5,no,64
+FL250103,female,50,Russia,Russian,DevOps,30,100,3.0,yes,79
+FL250104,female,21,Turkey,Turkish,Blockchain Development,2,50,4.9,yes,79
+FL250105,male,25,United States,English,Graphic Design,3,30,2.5,no,79
+FL250106,female,57,France,French,DevOps,21,40,2.5,no,79
+FL250107,male,58,Russia,Russian,Blockchain Development,3,52,0.0,yes,79
+FL250108,female,45,Indonesia,Indonesian,Mobile Apps,19,40,2.5,yes,79
+FL250109,female,23,United States,English,Web Development,0,20,4.7,yes,79
+FL250110,female,46,United States,English,AI,9,30,3.5,unknown,72
+FL250111,male,27,Argentina,Spanish,UI/UX Design,5,30,2.5,no,79
+FL250112,female,32,United States,English,Machine Learning,6,50,3.4,yes,79
+FL250113,female,48,Argentina,Spanish,Machine Learning,6,75,2.5,unknown,79
+FL250114,untold,30,Turkey,Turkish,Mobile Apps,3,30,1.1,yes,79
+FL250115,male,59,Turkey,Turkish,AI,13,20,4.8,unknown,79
+FL250116,untold,32,Mexico,Spanish,AI,5,30,2.5,no,79
+FL250117,female,57,Egypt,Arabic,UI/UX Design,4,40,3.4,yes,79
+FL250118,male,27,Australia,English,Machine Learning,7,20,3.2,yes,79
+FL250119,female,33,Indonesia,Indonesian,Machine Learning,13,20,3.2,no,79
+FL250120,untold,29,South Korea,Korean,Data Analysis,4,30,0.0,yes,79
+FL250121,untold,36,Indonesia,Indonesian,UI/UX Design,13,75,2.5,yes,79
+FL250122,female,47,Italy,Italian,DevOps,5,40,3.7,no,93
+FL250123,male,48,Canada,English,Machine Learning,15,50,1.0,yes,79
+FL250124,female,27,China,Mandarin,UI/UX Design,8,50,0.0,unknown,79
+FL250125,untold,34,Australia,English,Web Development,10,52,1.7,no,79
+FL250126,male,49,South Korea,Korean,Data Analysis,19,52,5.0,yes,79
+FL250127,untold,30,Brazil,Portuguese,Mobile Apps,10,100,1.7,yes,79
+FL250128,untold,31,Egypt,Arabic,Graphic Design,8,40,4.4,no,79
+FL250129,male,58,China,Mandarin,Machine Learning,9,20,0.0,no,79
+FL250130,male,47,France,French,Machine Learning,13,40,3.4,unknown,79
+FL250131,female,45,United Kingdom,English,Cybersecurity,14,100,1.1,no,93
+FL250132,female,57,France,French,Machine Learning,0,50,1.6,no,79
+FL250133,male,50,India,Hindi,Web Development,22,100,4.1,no,79
+FL250134,female,40,Brazil,Portuguese,Machine Learning,4,52,2.5,unknown,79
+FL250135,female,45,Indonesia,Indonesian,Blockchain Development,22,100,4.0,yes,79
+FL250136,male,60,South Africa,Afrikaans,Cybersecurity,39,75,1.4,no,79
+FL250137,untold,43,United Kingdom,English,Cybersecurity,5,50,2.5,yes,79
+FL250138,female,39,France,French,Cybersecurity,5,40,1.2,no,83
+FL250139,untold,26,Mexico,Spanish,UI/UX Design,5,50,0.0,no,79
+FL250140,male,31,Germany,German,Cybersecurity,11,50,3.1,no,79
+FL250141,male,52,France,French,UI/UX Design,15,50,0.0,yes,79
+FL250142,untold,34,India,Hindi,Data Analysis,5,20,2.2,yes,79
+FL250143,untold,45,United Kingdom,English,Web Development,7,75,3.0,yes,79
+FL250144,male,46,United Kingdom,English,Cybersecurity,9,20,0.0,no,79
+FL250145,male,56,France,French,UI/UX Design,21,100,0.0,yes,78
+FL250146,female,59,Germany,German,AI,7,40,1.4,no,79
+FL250147,female,54,Egypt,Arabic,Blockchain Development,4,52,1.4,yes,79
+FL250148,male,36,Germany,German,UI/UX Design,7,30,0.0,no,79
+FL250149,untold,25,Mexico,Spanish,Data Analysis,0,40,0.0,no,79
+FL250150,female,37,Russia,Russian,Data Analysis,15,40,2.9,no,79
+FL250151,male,40,Turkey,Turkish,Data Analysis,10,40,0.0,unknown,79
+FL250152,male,29,Spain,Spanish,Data Analysis,11,20,2.7,no,79
+FL250153,untold,55,Argentina,Spanish,Mobile Apps,12,100,1.8,yes,79
+FL250154,female,38,Japan,Japanese,DevOps,20,75,1.1,no,79
+FL250155,male,47,South Korea,Korean,DevOps,29,40,4.3,yes,79
+FL250156,male,60,Brazil,Portuguese,Web Development,15,100,1.5,no,80
+FL250157,female,43,Italy,Italian,Data Analysis,9,20,2.2,no,79
+FL250158,male,56,South Africa,Afrikaans,Data Analysis,11,100,3.2,no,79
+FL250159,untold,42,Russia,Russian,DevOps,2,50,1.9,no,79
+FL250160,female,20,Spain,Spanish,Graphic Design,0,40,2.5,no,79
+FL250161,untold,47,Indonesia,Indonesian,UI/UX Design,12,40,4.5,no,79
+FL250162,male,40,Argentina,Spanish,Data Analysis,12,30,4.1,no,79
+FL250163,male,56,Indonesia,Indonesian,DevOps,15,75,0.0,no,79
+FL250164,male,59,United Kingdom,English,DevOps,29,75,2.5,no,79
+FL250165,male,56,Japan,Japanese,Cybersecurity,15,40,3.7,unknown,79
+FL250166,untold,31,South Africa,Afrikaans,Web Development,11,75,1.3,yes,79
+FL250167,male,60,South Korea,Korean,Mobile Apps,33,40,3.6,yes,79
+FL250168,female,31,Canada,English,Web Development,10,75,0.0,no,79
+FL250169,male,60,Argentina,Spanish,Cybersecurity,20,40,1.4,no,87
+FL250170,male,46,France,French,DevOps,23,20,2.9,no,79
+FL250171,female,40,Netherlands,Dutch,Blockchain Development,11,40,2.8,no,79
+FL250172,male,34,Japan,Japanese,UI/UX Design,0,20,1.7,no,79
+FL250173,female,42,Netherlands,Dutch,Graphic Design,7,40,0.0,yes,79
+FL250174,male,31,United Kingdom,English,Data Analysis,4,75,1.1,yes,79
+FL250175,untold,29,Brazil,Portuguese,UI/UX Design,9,20,2.5,unknown,79
+FL250176,untold,57,Australia,English,Graphic Design,17,20,3.6,no,79
+FL250177,male,47,India,Hindi,DevOps,8,20,4.5,yes,79
+FL250178,male,47,South Africa,Afrikaans,AI,14,30,0.0,yes,79
+FL250179,female,45,France,French,Graphic Design,21,30,1.5,yes,79
+FL250180,male,24,Turkey,Turkish,Machine Learning,1,30,3.7,no,79
+FL250181,female,31,Argentina,Spanish,Mobile Apps,12,20,2.3,no,79
+FL250182,female,20,Mexico,Spanish,Graphic Design,2,20,2.8,no,79
+FL250183,male,38,Japan,Japanese,Web Development,3,30,3.5,no,79
+FL250184,untold,33,Germany,German,UI/UX Design,11,52,0.0,yes,79
+FL250185,female,31,Australia,English,Web Development,4,40,3.2,yes,79
+FL250186,male,41,Spain,Spanish,Machine Learning,21,50,3.3,yes,79
+FL250187,male,54,Turkey,Turkish,Web Development,0,20,4.9,unknown,79
+FL250188,untold,50,Mexico,Spanish,Data Analysis,6,30,2.2,yes,79
+FL250189,male,48,Brazil,Portuguese,Machine Learning,18,40,2.5,yes,79
+FL250190,female,49,Mexico,Spanish,Graphic Design,11,52,1.8,no,79
+FL250191,male,21,South Korea,Korean,Graphic Design,1,75,4.6,no,79
+FL250192,male,58,Australia,English,Graphic Design,20,75,2.8,no,79
+FL250193,male,41,Italy,Italian,DevOps,11,30,1.4,no,79
+FL250194,female,58,Russia,Russian,Blockchain Development,25,30,4.2,yes,79
+FL250195,untold,50,South Africa,Afrikaans,Graphic Design,20,40,3.6,yes,79
+FL250196,male,52,Indonesia,Indonesian,Web Development,33,100,1.6,unknown,79
+FL250197,male,34,Netherlands,Dutch,Data Analysis,6,100,2.0,no,79
+FL250198,male,32,France,French,Machine Learning,11,40,4.3,yes,79
+FL250199,female,50,India,Hindi,Graphic Design,28,100,4.9,yes,79
+FL250200,untold,39,Argentina,Spanish,Data Analysis,11,100,3.5,yes,79
+FL250201,female,25,Spain,Spanish,AI,2,100,2.5,no,87
+FL250202,female,55,China,Mandarin,Machine Learning,7,100,1.7,yes,79
+FL250203,male,42,Italy,Italian,DevOps,10,100,4.6,yes,79
+FL250204,untold,43,Russia,Russian,Mobile Apps,6,50,2.5,no,79
+FL250205,male,54,Italy,Italian,DevOps,29,30,1.7,no,68
+FL250206,female,21,Egypt,Arabic,Graphic Design,0,20,1.8,no,79
+FL250207,male,46,Canada,English,UI/UX Design,5,20,2.2,no,79
+FL250208,female,30,Spain,Spanish,Blockchain Development,11,40,1.0,no,79
+FL250209,untold,36,China,Mandarin,Machine Learning,11,75,3.2,no,93
+FL250210,female,47,Germany,German,Data Analysis,15,40,2.1,yes,79
+FL250211,female,43,Canada,English,Mobile Apps,1,50,4.6,yes,64
+FL250212,male,57,South Korea,Korean,Cybersecurity,8,20,0.0,yes,79
+FL250213,untold,52,Italy,Italian,Machine Learning,30,20,2.8,no,79
+FL250214,male,40,Germany,German,Blockchain Development,8,40,0.0,no,79
+FL250215,untold,22,Indonesia,Indonesian,Machine Learning,0,100,2.7,yes,79
+FL250216,male,40,India,Hindi,Machine Learning,12,20,0.0,yes,79
+FL250217,female,58,Spain,Spanish,Mobile Apps,4,50,3.1,no,79
+FL250218,male,39,South Korea,Korean,Web Development,14,100,0.0,yes,79
+FL250219,male,32,Indonesia,Indonesian,Graphic Design,14,52,2.5,no,79
+FL250220,male,37,Canada,English,UI/UX Design,2,30,2.3,yes,79
+FL250221,female,21,China,Mandarin,Cybersecurity,2,100,2.4,yes,79
+FL250222,male,41,South Korea,Korean,Machine Learning,4,75,2.6,unknown,79
+FL250223,female,21,Canada,English,AI,0,40,1.1,no,79
+FL250224,female,58,China,Mandarin,Machine Learning,9,30,0.0,yes,79
+FL250225,male,60,Canada,English,Machine Learning,3,40,4.7,no,79
+FL250226,male,27,South Africa,Afrikaans,Web Development,2,40,1.2,no,79
+FL250227,female,29,Germany,German,Machine Learning,10,40,1.2,no,79
+FL250228,female,54,Canada,English,Graphic Design,33,75,0.0,yes,79
+FL250229,male,52,Mexico,Spanish,Machine Learning,12,40,1.2,no,79
+FL250230,female,55,Indonesia,Indonesian,Blockchain Development,18,100,2.9,no,97
+FL250231,untold,37,Brazil,Portuguese,Blockchain Development,4,52,2.5,no,79
+FL250232,female,34,Egypt,Arabic,Data Analysis,11,50,3.9,yes,79
+FL250233,male,20,France,French,Data Analysis,1,50,3.1,unknown,79
+FL250234,male,22,Mexico,Spanish,UI/UX Design,2,52,0.0,yes,79
+FL250235,female,23,South Korea,Korean,Graphic Design,2,50,3.2,yes,79
+FL250236,female,53,South Korea,Korean,Blockchain Development,34,30,2.5,yes,79
+FL250237,female,56,South Korea,Korean,Graphic Design,27,100,4.7,yes,79
+FL250238,male,27,Canada,English,AI,4,75,5.0,no,79
+FL250239,male,34,Italy,Italian,Mobile Apps,11,40,2.5,no,79
+FL250240,male,29,United States,English,Web Development,4,50,4.0,no,79
+FL250241,male,34,India,Hindi,AI,11,52,1.2,yes,79
+FL250242,untold,32,Mexico,Spanish,AI,1,100,4.7,no,79
+FL250243,female,21,South Africa,Afrikaans,Machine Learning,2,20,2.4,unknown,79
+FL250244,male,20,Mexico,Spanish,Graphic Design,2,52,1.1,no,79
+FL250245,female,35,United States,English,Mobile Apps,10,50,1.4,yes,79
+FL250246,female,47,United States,English,UI/UX Design,18,40,3.4,no,60
+FL250247,female,41,Turkey,Turkish,Blockchain Development,4,40,2.7,yes,70
+FL250248,untold,58,Argentina,Spanish,Web Development,23,52,4.9,no,79
+FL250249,male,34,China,Mandarin,Data Analysis,6,75,1.9,yes,79
+FL250250,female,50,India,Hindi,Mobile Apps,5,100,2.5,yes,79
+FL250251,female,42,Mexico,Spanish,DevOps,19,75,4.6,no,79
+FL250252,male,43,Germany,German,UI/UX Design,6,50,0.0,no,81
+FL250253,male,34,Germany,German,Data Analysis,8,75,1.8,yes,79
+FL250254,male,24,Spain,Spanish,Mobile Apps,3,75,2.0,no,79
+FL250255,male,48,South Africa,Afrikaans,UI/UX Design,8,30,5.0,yes,79
+FL250256,female,39,South Korea,Korean,Data Analysis,12,20,3.2,yes,79
+FL250257,female,57,Australia,English,Blockchain Development,30,30,2.4,unknown,79
+FL250258,female,44,Canada,English,Web Development,21,100,2.9,no,79
+FL250259,untold,37,Brazil,Portuguese,UI/UX Design,17,20,0.0,yes,87
+FL250260,male,50,Turkey,Turkish,Data Analysis,9,30,3.0,no,76
+FL250261,male,50,Spain,Spanish,UI/UX Design,2,50,1.6,no,79
+FL250262,female,28,France,French,Graphic Design,1,20,3.6,yes,79
+FL250263,male,48,Italy,Italian,Web Development,23,52,2.1,no,79
+FL250264,male,42,Germany,German,DevOps,8,30,3.6,yes,79
+FL250265,female,37,Canada,English,Data Analysis,6,20,2.7,yes,79
+FL250266,male,21,India,Hindi,Blockchain Development,1,100,2.1,yes,79
+FL250267,male,50,South Korea,Korean,Web Development,19,40,4.9,unknown,79
+FL250268,female,22,Argentina,Spanish,AI,2,30,2.1,unknown,79
+FL250269,female,39,Japan,Japanese,Web Development,21,100,0.0,no,79
+FL250270,female,25,Japan,Japanese,Machine Learning,3,50,2.8,yes,86
+FL250271,female,47,South Africa,Afrikaans,Mobile Apps,14,52,2.5,no,79
+FL250272,female,35,South Africa,Afrikaans,UI/UX Design,10,100,4.7,yes,79
+FL250273,female,40,United Kingdom,English,Cybersecurity,5,100,1.3,no,79
+FL250274,untold,35,Netherlands,Dutch,Blockchain Development,6,75,1.6,yes,79
+FL250275,male,59,France,French,Web Development,21,100,0.0,unknown,79
+FL250276,female,26,China,Mandarin,UI/UX Design,4,100,3.6,no,79
+FL250277,male,44,Russia,Russian,Machine Learning,18,20,4.7,yes,79
+FL250278,female,31,South Africa,Afrikaans,UI/UX Design,12,40,2.5,yes,79
+FL250279,untold,60,Turkey,Turkish,Data Analysis,6,52,3.2,no,95
+FL250280,untold,23,United Kingdom,English,Blockchain Development,4,20,2.5,no,79
+FL250281,male,42,Indonesia,Indonesian,UI/UX Design,13,20,4.7,no,79
+FL250282,female,48,India,Hindi,Mobile Apps,6,30,2.5,no,79
+FL250283,male,42,Netherlands,Dutch,Graphic Design,10,20,2.4,yes,79
+FL250284,male,52,South Korea,Korean,Cybersecurity,20,50,2.5,no,79
+FL250285,untold,55,Japan,Japanese,Web Development,20,75,2.9,no,79
+FL250286,female,58,South Africa,Afrikaans,Cybersecurity,11,50,0.0,no,79
+FL250287,female,46,South Korea,Korean,Machine Learning,12,20,0.0,no,79
+FL250288,female,45,Spain,Spanish,Machine Learning,1,100,1.5,yes,79
+FL250289,female,56,India,Hindi,Machine Learning,2,30,1.9,yes,79
+FL250290,untold,44,United Kingdom,English,Blockchain Development,13,100,3.1,yes,95
+FL250291,male,46,Indonesia,Indonesian,UI/UX Design,0,52,1.8,no,79
+FL250292,female,27,Japan,Japanese,Web Development,7,30,2.4,yes,79
+FL250293,female,49,India,Hindi,Blockchain Development,13,100,4.2,yes,79
+FL250294,male,53,Mexico,Spanish,Web Development,21,50,1.4,no,79
+FL250295,male,56,Australia,English,Web Development,19,40,1.2,yes,79
+FL250296,female,56,United Kingdom,English,DevOps,34,52,2.1,yes,79
+FL250297,male,38,South Africa,Afrikaans,Data Analysis,3,100,1.4,no,79
+FL250298,male,20,South Korea,Korean,Mobile Apps,0,30,3.8,unknown,79
+FL250299,untold,38,Canada,English,Machine Learning,20,50,0.0,unknown,79
+FL250300,female,40,Netherlands,Dutch,Mobile Apps,6,40,3.5,no,79
+FL250301,male,46,India,Hindi,Machine Learning,13,100,0.0,yes,79
+FL250302,male,36,South Africa,Afrikaans,Data Analysis,9,75,2.2,no,79
+FL250303,male,33,Russia,Russian,Web Development,2,75,2.5,no,79
+FL250304,female,37,Canada,English,Graphic Design,0,50,4.7,no,79
+FL250305,male,20,Egypt,Arabic,Data Analysis,0,20,3.9,no,79
+FL250306,female,48,China,Mandarin,Data Analysis,2,75,1.6,no,79
+FL250307,untold,27,France,French,Cybersecurity,2,50,2.5,no,79
+FL250308,male,34,South Korea,Korean,Mobile Apps,1,30,3.6,yes,79
+FL250309,male,55,Brazil,Portuguese,Machine Learning,14,30,1.2,yes,79
+FL250310,female,44,South Africa,Afrikaans,Machine Learning,14,75,3.0,no,79
+FL250311,untold,31,Netherlands,Dutch,UI/UX Design,2,50,3.9,no,79
+FL250312,male,34,Australia,English,DevOps,1,40,1.7,unknown,74
+FL250313,female,47,Brazil,Portuguese,DevOps,13,20,4.5,unknown,79
+FL250314,male,50,United States,English,Graphic Design,23,40,3.6,yes,79
+FL250315,male,39,Germany,German,Cybersecurity,11,75,3.6,yes,79
+FL250316,female,26,Argentina,Spanish,Blockchain Development,3,100,2.8,yes,79
+FL250317,male,40,Netherlands,Dutch,DevOps,0,100,5.0,no,79
+FL250318,untold,32,Germany,German,Graphic Design,0,100,1.4,yes,79
+FL250319,female,55,Russia,Russian,Data Analysis,17,30,2.5,unknown,79
+FL250320,male,32,Argentina,Spanish,Machine Learning,9,40,4.6,yes,79
+FL250321,male,30,South Korea,Korean,Blockchain Development,4,20,3.3,no,79
+FL250322,untold,37,Canada,English,Cybersecurity,0,40,3.7,yes,79
+FL250323,male,52,Brazil,Portuguese,Graphic Design,33,52,0.0,yes,79
+FL250324,male,48,India,Hindi,Cybersecurity,18,50,0.0,yes,79
+FL250325,female,28,Japan,Japanese,Mobile Apps,9,40,2.5,yes,79
+FL250326,female,58,Spain,Spanish,Data Analysis,40,75,3.4,yes,79
+FL250327,untold,30,Argentina,Spanish,Web Development,1,40,1.6,yes,100
+FL250328,female,47,China,Mandarin,Mobile Apps,5,20,1.9,no,79
+FL250329,untold,44,Argentina,Spanish,AI,4,50,0.0,yes,79
+FL250330,male,56,Italy,Italian,Machine Learning,13,40,2.5,yes,79
+FL250331,female,53,United States,English,Mobile Apps,33,100,2.5,no,79
+FL250332,male,59,United Kingdom,English,Mobile Apps,22,40,1.1,yes,79
+FL250333,male,60,United States,English,DevOps,34,52,2.5,no,79
+FL250334,female,33,Germany,German,Mobile Apps,8,30,3.6,yes,79
+FL250335,female,21,Argentina,Spanish,Web Development,1,20,2.5,no,79
+FL250336,untold,54,United Kingdom,English,UI/UX Design,20,50,4.4,no,73
+FL250337,female,33,United States,English,Graphic Design,11,75,2.1,no,79
+FL250338,female,57,Turkey,Turkish,Data Analysis,2,40,0.0,no,79
+FL250339,male,36,South Korea,Korean,Graphic Design,6,20,1.0,yes,79
+FL250340,male,50,Germany,German,Blockchain Development,20,30,0.0,no,79
+FL250341,female,37,Canada,English,DevOps,11,20,4.9,no,79
+FL250342,male,53,Italy,Italian,AI,4,30,4.7,no,79
+FL250343,female,22,Italy,Italian,Blockchain Development,3,40,2.1,no,79
+FL250344,female,55,Netherlands,Dutch,Mobile Apps,33,40,1.5,yes,79
+FL250345,male,22,Australia,English,Cybersecurity,1,52,2.6,no,79
+FL250346,female,45,Turkey,Turkish,Web Development,23,50,0.0,no,79
+FL250347,male,36,France,French,Data Analysis,13,40,2.5,no,79
+FL250348,male,23,Australia,English,DevOps,1,20,4.0,yes,100
+FL250349,male,55,Italy,Italian,DevOps,15,40,4.5,unknown,79
+FL250350,female,50,Brazil,Portuguese,Mobile Apps,18,75,3.8,no,67
+FL250351,untold,48,United States,English,Machine Learning,21,50,4.0,no,79
+FL250352,male,23,Netherlands,Dutch,DevOps,1,40,4.9,yes,79
+FL250353,female,49,Canada,English,Web Development,25,30,3.4,no,79
+FL250354,female,47,Italy,Italian,Cybersecurity,12,50,2.1,yes,79
+FL250355,female,56,Japan,Japanese,Graphic Design,32,40,0.0,yes,79
+FL250356,male,58,Argentina,Spanish,UI/UX Design,11,100,4.5,no,77
+FL250357,male,32,South Korea,Korean,UI/UX Design,10,30,3.8,no,79
+FL250358,female,52,India,Hindi,UI/UX Design,0,52,4.3,no,79
+FL250359,female,22,China,Mandarin,Data Analysis,1,50,0.0,unknown,79
+FL250360,male,20,India,Hindi,Cybersecurity,2,30,2.5,yes,79
+FL250361,male,56,Netherlands,Dutch,Data Analysis,9,40,2.6,no,79
+FL250362,male,41,Japan,Japanese,Data Analysis,22,50,1.6,yes,79
+FL250363,male,25,Argentina,Spanish,Blockchain Development,5,30,2.3,no,79
+FL250364,female,44,Canada,English,Cybersecurity,6,75,4.6,yes,72
+FL250365,untold,46,Australia,English,Web Development,26,100,2.1,unknown,79
+FL250366,untold,40,South Korea,Korean,Blockchain Development,11,40,1.5,no,79
+FL250367,untold,40,China,Mandarin,AI,9,40,1.7,yes,72
+FL250368,male,31,Japan,Japanese,Data Analysis,11,52,3.3,no,79
+FL250369,male,33,South Korea,Korean,Machine Learning,11,40,4.3,yes,79
+FL250370,female,31,Brazil,Portuguese,Machine Learning,3,20,2.5,no,79
+FL250371,female,49,Italy,Italian,Data Analysis,15,75,2.6,no,79
+FL250372,untold,35,Mexico,Spanish,Graphic Design,12,20,4.1,unknown,79
+FL250373,male,45,India,Hindi,Data Analysis,19,40,2.2,yes,79
+FL250374,untold,39,Netherlands,Dutch,Data Analysis,13,30,1.1,yes,79
+FL250375,male,40,Argentina,Spanish,Blockchain Development,11,50,2.1,yes,79
+FL250376,untold,24,Germany,German,Cybersecurity,3,30,2.3,no,79
+FL250377,male,50,Australia,English,Graphic Design,26,52,3.6,yes,82
+FL250378,untold,23,Germany,German,Machine Learning,4,20,4.7,yes,79
+FL250379,male,27,Canada,English,Cybersecurity,8,20,4.8,no,79
+FL250380,male,58,South Africa,Afrikaans,AI,10,75,4.2,no,71
+FL250381,male,37,Italy,Italian,Machine Learning,5,52,4.8,yes,79
+FL250382,male,39,Spain,Spanish,Blockchain Development,18,75,4.0,yes,79
+FL250383,female,46,Egypt,Arabic,Data Analysis,10,20,2.5,yes,79
+FL250384,female,40,United Kingdom,English,UI/UX Design,0,20,4.8,no,79
+FL250385,female,39,Mexico,Spanish,Blockchain Development,21,30,4.7,no,79
+FL250386,male,59,Egypt,Arabic,Blockchain Development,25,20,4.0,no,79
+FL250387,male,21,Netherlands,Dutch,DevOps,0,40,4.1,yes,79
+FL250388,female,23,Canada,English,DevOps,5,100,3.2,yes,79
+FL250389,male,27,Egypt,Arabic,Web Development,1,20,4.3,no,79
+FL250390,male,27,China,Mandarin,Cybersecurity,4,40,4.4,no,79
+FL250391,female,48,South Africa,Afrikaans,Data Analysis,21,40,2.3,no,79
+FL250392,male,21,South Africa,Afrikaans,AI,1,20,2.4,yes,79
+FL250393,male,37,Italy,Italian,DevOps,11,50,4.6,no,79
+FL250394,female,31,Germany,German,UI/UX Design,10,50,0.0,no,79
+FL250395,female,41,Egypt,Arabic,Blockchain Development,21,52,0.0,yes,79
+FL250396,untold,31,Russia,Russian,Cybersecurity,0,20,4.2,yes,82
+FL250397,female,58,Argentina,Spanish,Data Analysis,0,50,2.3,no,79
+FL250398,female,45,Netherlands,Dutch,Data Analysis,17,50,4.7,yes,79
+FL250399,male,51,South Korea,Korean,Cybersecurity,5,52,3.0,yes,79
+FL250400,male,54,United States,English,UI/UX Design,3,30,2.4,no,79
+FL250401,male,22,Russia,Russian,Data Analysis,1,20,1.7,no,79
+FL250402,male,36,Turkey,Turkish,Cybersecurity,2,75,0.0,no,79
+FL250403,male,50,Germany,German,DevOps,32,30,2.5,no,79
+FL250404,female,41,Australia,English,Blockchain Development,14,30,0.0,yes,79
+FL250405,male,40,South Africa,Afrikaans,Web Development,10,20,1.8,yes,85
+FL250406,female,51,Netherlands,Dutch,Cybersecurity,27,50,0.0,no,79
+FL250407,untold,21,France,French,AI,2,30,3.8,yes,79
+FL250408,male,51,Japan,Japanese,AI,33,40,0.0,yes,79
+FL250409,untold,37,Indonesia,Indonesian,Graphic Design,11,40,3.6,no,79
+FL250410,female,20,Spain,Spanish,Graphic Design,2,30,0.0,no,79
+FL250411,female,50,Australia,English,Web Development,31,50,4.1,unknown,79
+FL250412,female,58,Turkey,Turkish,Graphic Design,17,50,2.6,yes,79
+FL250413,female,40,Brazil,Portuguese,UI/UX Design,2,100,0.0,no,79
+FL250414,female,26,Egypt,Arabic,Web Development,2,20,1.3,no,79
+FL250415,female,44,South Korea,Korean,Cybersecurity,22,30,4.1,yes,79
+FL250416,untold,42,Mexico,Spanish,Machine Learning,8,50,2.4,no,79
+FL250417,male,38,Mexico,Spanish,Data Analysis,9,50,0.0,no,79
+FL250418,untold,51,Egypt,Arabic,Web Development,32,100,4.4,no,91
+FL250419,untold,36,France,French,AI,8,100,2.2,yes,79
+FL250420,female,37,Australia,English,Mobile Apps,10,30,0.0,no,79
+FL250421,untold,31,South Africa,Afrikaans,DevOps,0,50,1.1,yes,79
+FL250422,female,47,India,Hindi,Cybersecurity,22,52,1.4,yes,79
+FL250423,untold,60,Mexico,Spanish,UI/UX Design,34,100,0.0,yes,79
+FL250424,female,48,Argentina,Spanish,Mobile Apps,5,30,1.5,no,79
+FL250425,female,24,India,Hindi,AI,3,20,0.0,yes,79
+FL250426,female,35,Netherlands,Dutch,Machine Learning,10,75,0.0,unknown,79
+FL250427,male,35,United States,English,DevOps,11,100,3.5,yes,79
+FL250428,female,29,Netherlands,Dutch,UI/UX Design,6,52,4.8,no,79
+FL250429,female,36,Italy,Italian,Machine Learning,1,75,2.5,unknown,79
+FL250430,female,44,Canada,English,AI,0,52,4.8,unknown,79
+FL250431,male,44,South Africa,Afrikaans,Web Development,11,52,1.4,no,79
+FL250432,male,40,India,Hindi,AI,13,100,1.1,yes,79
+FL250433,female,53,Netherlands,Dutch,Machine Learning,13,50,3.3,yes,79
+FL250434,female,35,Germany,German,Blockchain Development,0,30,4.6,unknown,79
+FL250435,female,27,Argentina,Spanish,Machine Learning,7,75,2.8,yes,79
+FL250436,male,34,Australia,English,DevOps,6,50,5.0,yes,79
+FL250437,untold,24,India,Hindi,Cybersecurity,2,75,4.7,no,79
+FL250438,untold,57,United States,English,UI/UX Design,13,100,3.5,no,79
+FL250439,male,28,South Korea,Korean,UI/UX Design,7,100,4.3,no,79
+FL250440,female,26,Italy,Italian,DevOps,7,100,3.3,yes,79
+FL250441,male,34,Argentina,Spanish,Mobile Apps,15,75,2.5,no,79
+FL250442,male,43,Japan,Japanese,AI,11,20,2.8,unknown,79
+FL250443,male,31,China,Mandarin,Graphic Design,5,52,2.7,yes,94
+FL250444,female,34,China,Mandarin,Blockchain Development,11,50,0.0,no,84
+FL250445,female,32,Russia,Russian,Cybersecurity,10,20,2.5,yes,79
+FL250446,male,24,Egypt,Arabic,DevOps,6,75,4.3,yes,79
+FL250447,untold,35,United Kingdom,English,AI,8,50,2.5,no,90
+FL250448,female,22,Australia,English,Mobile Apps,4,20,2.5,no,79
+FL250449,female,55,Egypt,Arabic,AI,3,100,2.5,yes,79
+FL250450,untold,54,Argentina,Spanish,Machine Learning,11,30,2.9,yes,79
+FL250451,female,36,Netherlands,Dutch,Cybersecurity,11,30,0.0,yes,79
+FL250452,untold,36,Netherlands,Dutch,AI,17,50,1.3,unknown,79
+FL250453,female,25,Argentina,Spanish,Web Development,1,75,0.0,yes,79
+FL250454,male,46,Indonesia,Indonesian,AI,16,20,4.8,yes,79
+FL250455,male,41,Argentina,Spanish,Machine Learning,11,40,2.4,no,79
+FL250456,female,21,Russia,Russian,Mobile Apps,3,100,4.7,no,79
+FL250457,male,29,United States,English,Graphic Design,11,75,2.0,no,79
+FL250458,female,44,United States,English,Mobile Apps,3,50,2.2,no,79
+FL250459,male,40,Canada,English,Machine Learning,1,100,2.1,yes,79
+FL250460,untold,27,Egypt,Arabic,Data Analysis,1,30,1.7,no,79
+FL250461,male,53,France,French,Mobile Apps,35,52,5.0,yes,79
+FL250462,untold,20,Turkey,Turkish,Data Analysis,1,50,2.9,no,79
+FL250463,untold,40,Japan,Japanese,DevOps,12,50,4.1,yes,79
+FL250464,untold,26,Mexico,Spanish,Web Development,8,40,4.9,no,79
+FL250465,untold,49,Brazil,Portuguese,Machine Learning,13,100,2.5,no,79
+FL250466,female,20,Egypt,Arabic,Data Analysis,0,30,0.0,yes,76
+FL250467,untold,39,China,Mandarin,Blockchain Development,11,100,2.8,unknown,70
+FL250468,female,41,China,Mandarin,Machine Learning,19,100,3.8,yes,79
+FL250469,male,59,Canada,English,Mobile Apps,30,30,4.3,yes,79
+FL250470,female,45,Australia,English,Blockchain Development,8,40,0.0,no,78
+FL250471,male,22,Indonesia,Indonesian,Cybersecurity,0,40,1.3,yes,79
+FL250472,female,48,India,Hindi,Mobile Apps,7,50,4.7,yes,79
+FL250473,male,36,France,French,Blockchain Development,11,40,1.3,yes,79
+FL250474,female,57,China,Mandarin,Blockchain Development,11,75,4.8,yes,79
+FL250475,male,42,United States,English,UI/UX Design,14,30,1.3,no,79
+FL250476,male,31,Indonesia,Indonesian,Cybersecurity,11,50,4.3,no,62
+FL250477,male,52,Spain,Spanish,Cybersecurity,31,30,2.5,yes,79
+FL250478,male,56,Netherlands,Dutch,DevOps,16,30,0.0,yes,79
+FL250479,female,24,Netherlands,Dutch,DevOps,6,30,0.0,yes,79
+FL250480,untold,48,Canada,English,DevOps,21,75,2.7,yes,79
+FL250481,male,59,France,French,Cybersecurity,13,40,2.4,no,65
+FL250482,male,40,United Kingdom,English,Web Development,11,40,1.9,yes,79
+FL250483,untold,40,Netherlands,Dutch,Mobile Apps,11,20,3.6,no,79
+FL250484,male,25,Netherlands,Dutch,Mobile Apps,0,50,2.9,yes,79
+FL250485,untold,31,Egypt,Arabic,Mobile Apps,2,75,2.8,no,79
+FL250486,male,40,Turkey,Turkish,DevOps,12,75,2.6,no,79
+FL250487,female,48,Russia,Russian,Blockchain Development,13,100,2.7,unknown,79
+FL250488,female,24,South Africa,Afrikaans,Mobile Apps,6,30,1.1,yes,79
+FL250489,male,33,Indonesia,Indonesian,Web Development,10,30,0.0,yes,79
+FL250490,female,43,Brazil,Portuguese,UI/UX Design,2,40,0.0,yes,79
+FL250491,male,43,Spain,Spanish,Blockchain Development,4,50,0.0,yes,79
+FL250492,female,33,Australia,English,Web Development,11,52,4.6,yes,79
+FL250493,female,49,Russia,Russian,UI/UX Design,14,40,1.5,unknown,79
+FL250494,male,55,Canada,English,UI/UX Design,10,40,2.0,no,79
+FL250495,female,33,South Korea,Korean,Graphic Design,3,40,1.6,unknown,79
+FL250496,male,32,Argentina,Spanish,AI,3,30,1.5,no,79
+FL250497,male,58,Netherlands,Dutch,Blockchain Development,33,52,4.1,yes,79
+FL250498,untold,49,Indonesia,Indonesian,Data Analysis,24,100,4.7,no,79
+FL250499,female,22,Russia,Russian,UI/UX Design,3,100,3.6,yes,79
+FL250500,female,40,Egypt,Arabic,Web Development,11,20,1.8,yes,79
+FL250501,male,55,Australia,English,Data Analysis,7,100,2.1,no,79
+FL250502,male,32,Mexico,Spanish,DevOps,1,50,2.5,yes,79
+FL250503,female,21,Japan,Japanese,UI/UX Design,0,30,4.2,yes,79
+FL250504,male,23,South Korea,Korean,Blockchain Development,1,40,0.0,no,79
+FL250505,male,21,United Kingdom,English,Mobile Apps,1,30,1.0,no,79
+FL250506,male,31,Argentina,Spanish,AI,7,75,4.4,no,79
+FL250507,male,21,Mexico,Spanish,Blockchain Development,11,40,4.0,no,79
+FL250508,untold,33,United Kingdom,English,Cybersecurity,6,50,3.1,no,79
+FL250509,male,57,Brazil,Portuguese,Web Development,5,75,1.1,yes,79
+FL250510,male,52,United States,English,DevOps,17,75,0.0,no,79
+FL250511,female,21,Germany,German,Web Development,0,20,3.8,yes,79
+FL250512,female,36,Argentina,Spanish,UI/UX Design,8,100,1.7,no,79
+FL250513,untold,33,Spain,Spanish,Machine Learning,13,50,2.2,no,79
+FL250514,female,54,United Kingdom,English,Data Analysis,15,40,4.1,yes,71
+FL250515,untold,33,United States,English,Blockchain Development,2,100,3.8,no,79
+FL250516,untold,36,Japan,Japanese,Machine Learning,9,30,0.0,yes,79
+FL250517,female,36,Turkey,Turkish,AI,3,50,0.0,no,75
+FL250518,female,43,China,Mandarin,AI,15,20,4.2,yes,79
+FL250519,male,52,United Kingdom,English,Data Analysis,21,75,2.2,yes,79
+FL250520,female,28,Indonesia,Indonesian,Cybersecurity,2,75,1.5,yes,79
+FL250521,female,47,China,Mandarin,Cybersecurity,21,100,0.0,no,79
+FL250522,untold,30,France,French,DevOps,0,100,4.1,no,79
+FL250523,male,36,Egypt,Arabic,Blockchain Development,4,40,2.6,no,79
+FL250524,female,45,United States,English,UI/UX Design,23,100,2.4,no,79
+FL250525,female,51,United States,English,Blockchain Development,25,50,1.4,yes,79
+FL250526,male,46,Turkey,Turkish,Mobile Apps,10,52,4.6,yes,79
+FL250527,female,38,Italy,Italian,Data Analysis,18,40,4.9,no,79
+FL250528,male,26,Spain,Spanish,Blockchain Development,1,20,0.0,yes,79
+FL250529,female,40,United Kingdom,English,DevOps,12,30,3.5,unknown,79
+FL250530,male,37,Germany,German,Machine Learning,11,52,1.7,yes,79
+FL250531,male,28,Canada,English,Blockchain Development,5,50,0.0,yes,96
+FL250532,untold,48,India,Hindi,Mobile Apps,28,20,0.0,no,79
+FL250533,male,22,India,Hindi,AI,0,52,4.6,no,79
+FL250534,untold,41,Germany,German,Web Development,14,40,1.1,yes,79
+FL250535,male,38,United States,English,Graphic Design,15,52,4.2,no,79
+FL250536,female,31,South Africa,Afrikaans,UI/UX Design,9,52,0.0,no,79
+FL250537,female,30,China,Mandarin,Mobile Apps,9,30,3.9,no,79
+FL250538,male,51,Mexico,Spanish,UI/UX Design,22,20,3.4,yes,90
+FL250539,female,21,Germany,German,DevOps,0,20,2.6,no,79
+FL250540,female,20,Italy,Italian,DevOps,1,40,2.3,yes,79
+FL250541,male,30,Japan,Japanese,Blockchain Development,5,30,4.8,no,79
+FL250542,male,41,China,Mandarin,Data Analysis,0,40,4.5,no,79
+FL250543,male,22,Spain,Spanish,Blockchain Development,0,30,0.0,no,79
+FL250544,male,45,Mexico,Spanish,Cybersecurity,19,75,0.0,no,79
+FL250545,female,22,Australia,English,Data Analysis,2,40,1.1,no,79
+FL250546,female,20,Turkey,Turkish,Mobile Apps,0,100,0.0,no,63
+FL250547,female,20,Canada,English,Data Analysis,2,40,2.5,yes,79
+FL250548,male,21,United Kingdom,English,AI,0,100,2.5,no,79
+FL250549,male,22,Netherlands,Dutch,Cybersecurity,1,40,0.0,no,79
+FL250550,female,28,United Kingdom,English,DevOps,3,20,2.5,yes,79
+FL250551,female,59,Argentina,Spanish,AI,11,20,4.1,no,75
+FL250552,untold,28,France,French,Web Development,1,52,0.0,no,79
+FL250553,female,40,Australia,English,DevOps,0,100,1.2,unknown,79
+FL250554,male,57,Italy,Italian,Blockchain Development,7,30,1.6,no,79
+FL250555,male,47,Turkey,Turkish,DevOps,1,50,3.9,yes,79
+FL250556,untold,48,South Korea,Korean,Cybersecurity,21,40,0.0,yes,79
+FL250557,male,28,United States,English,UI/UX Design,1,20,4.7,no,79
+FL250558,male,41,Turkey,Turkish,Graphic Design,15,52,3.8,yes,79
+FL250559,female,57,South Africa,Afrikaans,Cybersecurity,33,100,3.5,no,79
+FL250560,untold,60,Argentina,Spanish,Graphic Design,39,75,4.0,unknown,79
+FL250561,untold,48,Egypt,Arabic,Graphic Design,21,30,1.6,yes,79
+FL250562,female,24,France,French,Cybersecurity,5,40,3.0,no,79
+FL250563,female,33,Mexico,Spanish,DevOps,11,50,5.0,yes,79
+FL250564,female,20,Turkey,Turkish,Graphic Design,0,30,4.8,yes,79
+FL250565,male,59,United Kingdom,English,DevOps,15,50,2.5,no,79
+FL250566,untold,42,China,Mandarin,DevOps,22,52,2.9,no,79
+FL250567,female,22,Turkey,Turkish,UI/UX Design,3,52,3.0,yes,79
+FL250568,male,41,Canada,English,Cybersecurity,11,50,3.5,yes,79
+FL250569,female,25,Argentina,Spanish,Web Development,5,40,2.5,yes,79
+FL250570,female,38,Canada,English,UI/UX Design,3,40,4.7,no,79
+FL250571,untold,43,United States,English,DevOps,1,52,2.9,no,79
+FL250572,female,54,Mexico,Spanish,AI,1,75,4.4,yes,79
+FL250573,female,31,Indonesia,Indonesian,Mobile Apps,2,40,2.3,no,79
+FL250574,female,56,Mexico,Spanish,AI,3,30,3.7,unknown,79
+FL250575,male,46,Mexico,Spanish,Graphic Design,11,52,1.8,yes,79
+FL250576,male,60,Egypt,Arabic,AI,11,100,0.0,yes,79
+FL250577,female,28,South Korea,Korean,Graphic Design,2,50,2.5,yes,79
+FL250578,female,43,Indonesia,Indonesian,Web Development,20,30,2.7,no,79
+FL250579,male,41,France,French,Web Development,11,20,4.7,unknown,79
+FL250580,untold,41,United Kingdom,English,DevOps,0,20,3.1,no,90
+FL250581,female,40,United Kingdom,English,Mobile Apps,20,20,2.3,no,79
+FL250582,male,45,Germany,German,DevOps,3,20,1.3,yes,79
+FL250583,male,47,Egypt,Arabic,DevOps,28,50,2.9,yes,79
+FL250584,male,34,India,Hindi,Data Analysis,0,40,3.3,no,79
+FL250585,male,47,United States,English,UI/UX Design,4,20,4.2,unknown,79
+FL250586,male,32,Mexico,Spanish,UI/UX Design,9,40,1.3,yes,79
+FL250587,male,28,United Kingdom,English,Mobile Apps,2,100,4.4,yes,79
+FL250588,male,32,Australia,English,DevOps,1,100,3.4,yes,79
+FL250589,female,49,Netherlands,Dutch,AI,2,100,3.4,yes,79
+FL250590,female,36,Argentina,Spanish,Mobile Apps,16,20,3.2,unknown,79
+FL250591,male,59,Mexico,Spanish,Blockchain Development,22,20,3.6,no,79
+FL250592,untold,52,Canada,English,Cybersecurity,22,20,0.0,no,79
+FL250593,untold,24,China,Mandarin,Blockchain Development,5,40,1.8,yes,79
+FL250594,female,26,Australia,English,Graphic Design,2,75,2.5,yes,60
+FL250595,male,55,Canada,English,Cybersecurity,24,40,2.0,yes,88
+FL250596,female,56,Italy,Italian,Mobile Apps,37,40,0.0,no,79
+FL250597,male,36,France,French,Graphic Design,3,50,1.3,yes,79
+FL250598,male,48,Argentina,Spanish,Web Development,18,75,0.0,no,79
+FL250599,male,55,Egypt,Arabic,Machine Learning,6,40,3.6,yes,79
+FL250600,untold,56,Spain,Spanish,DevOps,17,52,1.3,unknown,79
+FL250601,female,28,Canada,English,Blockchain Development,1,75,2.7,yes,79
+FL250602,untold,60,United States,English,AI,39,100,1.5,unknown,88
+FL250603,untold,34,South Korea,Korean,Blockchain Development,15,20,0.0,no,79
+FL250604,untold,38,Indonesia,Indonesian,AI,13,40,0.0,yes,61
+FL250605,female,51,South Korea,Korean,Web Development,17,100,3.0,no,79
+FL250606,female,21,Japan,Japanese,Mobile Apps,1,30,1.2,unknown,79
+FL250607,male,35,Italy,Italian,UI/UX Design,16,52,1.3,yes,79
+FL250608,male,27,Brazil,Portuguese,Web Development,9,100,2.5,yes,79
+FL250609,female,42,Turkey,Turkish,Mobile Apps,20,50,3.8,no,79
+FL250610,female,52,Canada,English,Blockchain Development,29,30,3.8,no,79
+FL250611,untold,53,South Korea,Korean,Web Development,21,40,4.7,yes,79
+FL250612,female,54,Italy,Italian,Mobile Apps,28,40,1.1,no,79
+FL250613,male,51,Japan,Japanese,Graphic Design,5,50,4.2,yes,79
+FL250614,female,30,South Korea,Korean,Web Development,0,52,0.0,no,79
+FL250615,female,45,Netherlands,Dutch,Machine Learning,27,75,0.0,unknown,79
+FL250616,untold,57,Indonesia,Indonesian,Graphic Design,26,100,2.4,yes,79
+FL250617,male,38,Turkey,Turkish,Blockchain Development,19,40,0.0,yes,79
+FL250618,female,42,Russia,Russian,DevOps,24,40,2.5,no,79
+FL250619,female,30,South Africa,Afrikaans,DevOps,7,30,3.3,unknown,79
+FL250620,untold,43,Australia,English,Web Development,13,100,1.4,yes,79
+FL250621,male,22,Egypt,Arabic,UI/UX Design,2,75,1.7,no,79
+FL250622,male,57,Mexico,Spanish,Machine Learning,37,30,4.8,no,79
+FL250623,male,44,United Kingdom,English,Graphic Design,1,52,4.8,no,79
+FL250624,untold,46,China,Mandarin,DevOps,5,30,2.0,yes,79
+FL250625,male,40,Spain,Spanish,Blockchain Development,1,50,2.8,no,79
+FL250626,female,34,Australia,English,Data Analysis,2,100,0.0,no,86
+FL250627,female,46,Italy,Italian,Mobile Apps,11,100,4.4,yes,97
+FL250628,female,22,France,French,Blockchain Development,0,30,4.9,no,79
+FL250629,untold,23,South Africa,Afrikaans,AI,0,75,2.3,unknown,79
+FL250630,female,60,Turkey,Turkish,Web Development,41,40,4.9,yes,66
+FL250631,male,20,Canada,English,DevOps,11,75,4.3,no,79
+FL250632,female,41,South Korea,Korean,UI/UX Design,23,75,1.4,no,79
+FL250633,male,24,France,French,Mobile Apps,0,100,2.5,no,79
+FL250634,male,44,Netherlands,Dutch,Machine Learning,4,52,1.3,yes,77
+FL250635,male,52,China,Mandarin,UI/UX Design,4,75,2.3,yes,79
+FL250636,male,35,Spain,Spanish,Machine Learning,13,40,3.6,no,79
+FL250637,female,24,Netherlands,Dutch,DevOps,2,50,2.5,no,79
+FL250638,female,46,Australia,English,Cybersecurity,25,100,1.3,no,79
+FL250639,male,57,Mexico,Spanish,Mobile Apps,18,30,1.1,no,79
+FL250640,female,49,Mexico,Spanish,Web Development,24,50,0.0,no,79
+FL250641,male,41,Japan,Japanese,AI,7,40,1.8,no,79
+FL250642,untold,22,Mexico,Spanish,Machine Learning,1,20,2.5,yes,79
+FL250643,untold,50,Australia,English,Blockchain Development,17,75,3.3,yes,79
+FL250644,untold,57,Germany,German,Graphic Design,4,30,4.2,no,79
+FL250645,female,47,Mexico,Spanish,AI,29,50,2.5,yes,79
+FL250646,male,24,South Africa,Afrikaans,Data Analysis,2,100,3.8,yes,79
+FL250647,untold,40,India,Hindi,Cybersecurity,9,100,4.8,yes,79
+FL250648,female,50,Germany,German,DevOps,10,100,4.3,no,79
+FL250649,male,46,Brazil,Portuguese,Machine Learning,20,52,4.8,yes,79
+FL250650,untold,51,Australia,English,Cybersecurity,9,40,2.5,no,60
+FL250651,male,51,United Kingdom,English,AI,12,20,4.0,no,93
+FL250652,male,27,United Kingdom,English,AI,3,50,2.5,no,79
+FL250653,male,42,Spain,Spanish,Web Development,13,30,0.0,no,79
+FL250654,male,25,Germany,German,UI/UX Design,4,40,2.3,yes,73
+FL250655,female,32,Germany,German,Data Analysis,9,75,2.5,no,79
+FL250656,untold,59,Canada,English,Graphic Design,14,30,3.8,unknown,79
+FL250657,female,59,France,French,Cybersecurity,37,30,4.0,no,79
+FL250658,male,29,Germany,German,Graphic Design,2,75,2.2,yes,79
+FL250659,male,58,China,Mandarin,AI,11,100,4.3,no,79
+FL250660,female,56,Canada,English,Cybersecurity,19,20,0.0,no,79
+FL250661,female,36,United States,English,Machine Learning,9,20,0.0,yes,68
+FL250662,female,52,Canada,English,UI/UX Design,16,100,4.0,yes,79
+FL250663,female,42,Netherlands,Dutch,Mobile Apps,8,50,2.5,unknown,79
+FL250664,female,59,India,Hindi,Mobile Apps,34,100,2.0,yes,79
+FL250665,untold,33,Netherlands,Dutch,Mobile Apps,5,50,4.7,yes,79
+FL250666,female,55,Canada,English,Web Development,14,50,3.6,yes,79
+FL250667,untold,47,South Korea,Korean,UI/UX Design,17,50,1.2,no,79
+FL250668,female,29,Mexico,Spanish,AI,10,52,4.4,yes,79
+FL250669,female,30,United Kingdom,English,DevOps,8,100,1.4,yes,62
+FL250670,female,25,Canada,English,DevOps,1,30,3.2,no,79
+FL250671,untold,28,Egypt,Arabic,Cybersecurity,10,52,3.8,yes,79
+FL250672,untold,29,South Korea,Korean,Blockchain Development,0,75,1.5,yes,79
+FL250673,male,30,Spain,Spanish,Graphic Design,4,52,2.8,yes,79
+FL250674,untold,47,Egypt,Arabic,AI,2,50,2.7,no,96
+FL250675,male,34,Australia,English,Blockchain Development,10,30,3.9,unknown,79
+FL250676,male,45,United States,English,Graphic Design,16,100,4.6,no,79
+FL250677,female,56,Spain,Spanish,Cybersecurity,27,20,2.2,no,79
+FL250678,untold,49,China,Mandarin,DevOps,20,50,2.5,no,79
+FL250679,male,48,France,French,AI,10,52,3.1,no,79
+FL250680,untold,29,South Korea,Korean,Graphic Design,0,20,2.5,yes,79
+FL250681,female,49,Netherlands,Dutch,Web Development,11,75,3.8,yes,79
+FL250682,female,22,China,Mandarin,Blockchain Development,1,100,4.8,yes,79
+FL250683,male,52,Mexico,Spanish,Graphic Design,30,100,2.5,unknown,61
+FL250684,male,60,Canada,English,Blockchain Development,7,30,0.0,no,79
+FL250685,female,33,Japan,Japanese,UI/UX Design,0,100,1.7,yes,95
+FL250686,male,52,South Korea,Korean,Graphic Design,21,40,4.0,unknown,79
+FL250687,female,25,Germany,German,DevOps,7,100,1.9,no,79
+FL250688,male,33,Japan,Japanese,Cybersecurity,11,30,4.4,yes,79
+FL250689,female,33,China,Mandarin,Mobile Apps,11,52,4.2,yes,79
+FL250690,female,52,Canada,English,UI/UX Design,25,100,4.8,no,79
+FL250691,female,20,Indonesia,Indonesian,Web Development,1,30,2.0,no,79
+FL250692,female,43,Russia,Russian,Data Analysis,7,50,2.5,yes,79
+FL250693,untold,31,France,French,Mobile Apps,11,50,1.4,no,79
+FL250694,female,29,Germany,German,Data Analysis,6,100,1.8,no,79
+FL250695,female,53,South Africa,Afrikaans,Graphic Design,35,52,0.0,yes,79
+FL250696,untold,38,India,Hindi,Mobile Apps,1,40,0.0,no,79
+FL250697,male,29,Spain,Spanish,Graphic Design,11,20,0.0,no,79
+FL250698,male,42,South Korea,Korean,UI/UX Design,0,52,3.9,no,79
+FL250699,female,54,United States,English,Machine Learning,9,100,2.5,no,79
+FL250700,male,56,China,Mandarin,UI/UX Design,18,50,4.4,yes,79
+FL250701,female,47,Turkey,Turkish,Graphic Design,22,100,4.4,no,79
+FL250702,male,45,Russia,Russian,Blockchain Development,25,50,0.0,no,99
+FL250703,male,45,China,Mandarin,Data Analysis,6,50,1.4,unknown,97
+FL250704,male,35,Canada,English,Machine Learning,10,20,3.2,yes,79
+FL250705,untold,51,Canada,English,DevOps,4,50,2.0,no,79
+FL250706,female,34,Spain,Spanish,Mobile Apps,11,50,3.3,yes,79
+FL250707,female,51,Indonesia,Indonesian,Graphic Design,1,50,0.0,yes,79
+FL250708,male,58,Egypt,Arabic,Graphic Design,35,100,2.3,yes,79
+FL250709,female,36,Netherlands,Dutch,Web Development,17,20,0.0,yes,99
+FL250710,male,40,Russia,Russian,AI,12,30,2.6,yes,79
+FL250711,male,56,South Africa,Afrikaans,Machine Learning,30,40,3.3,yes,79
+FL250712,female,58,Canada,English,Cybersecurity,20,75,3.6,yes,79
+FL250713,female,58,United States,English,Cybersecurity,22,100,3.7,no,79
+FL250714,female,54,United Kingdom,English,AI,32,20,3.4,no,79
+FL250715,untold,53,Australia,English,UI/UX Design,9,50,4.0,yes,79
+FL250716,female,43,Australia,English,Web Development,22,40,4.5,unknown,79
+FL250717,male,44,South Korea,Korean,Machine Learning,1,75,4.3,yes,79
+FL250718,male,34,Canada,English,Cybersecurity,4,75,4.0,yes,79
+FL250719,untold,27,Brazil,Portuguese,Mobile Apps,8,50,1.6,yes,79
+FL250720,male,50,Japan,Japanese,Data Analysis,3,100,0.0,yes,79
+FL250721,untold,52,South Korea,Korean,UI/UX Design,30,75,2.5,no,79
+FL250722,male,57,Spain,Spanish,Blockchain Development,11,20,4.9,yes,79
+FL250723,untold,53,Mexico,Spanish,DevOps,8,20,2.8,yes,79
+FL250724,male,51,Turkey,Turkish,UI/UX Design,11,30,3.6,yes,79
+FL250725,female,37,Canada,English,Cybersecurity,9,50,2.5,yes,84
+FL250726,male,40,Spain,Spanish,Web Development,7,40,4.5,unknown,79
+FL250727,male,60,Japan,Japanese,Data Analysis,24,40,3.1,no,79
+FL250728,male,60,France,French,UI/UX Design,0,40,4.9,yes,79
+FL250729,female,53,South Korea,Korean,UI/UX Design,21,30,4.2,yes,73
+FL250730,female,20,Mexico,Spanish,Blockchain Development,0,75,3.2,yes,79
+FL250731,male,42,Russia,Russian,Web Development,7,20,2.5,no,79
+FL250732,male,21,United Kingdom,English,Mobile Apps,3,40,0.0,no,79
+FL250733,male,39,Germany,German,Web Development,21,100,2.2,no,79
+FL250734,male,32,India,Hindi,Blockchain Development,11,30,1.5,no,79
+FL250735,male,35,Germany,German,Data Analysis,11,100,2.5,no,79
+FL250736,female,35,France,French,UI/UX Design,17,50,3.1,no,79
+FL250737,female,23,Argentina,Spanish,UI/UX Design,0,75,0.0,no,79
+FL250738,male,26,Netherlands,Dutch,AI,6,100,2.5,no,79
+FL250739,female,34,Canada,English,Machine Learning,3,52,0.0,yes,79
+FL250740,female,34,Germany,German,Blockchain Development,3,52,2.5,no,79
+FL250741,male,57,Italy,Italian,Web Development,31,50,3.0,yes,79
+FL250742,male,46,Canada,English,Web Development,5,30,2.6,no,79
+FL250743,untold,55,India,Hindi,AI,37,75,4.1,no,79
+FL250744,female,32,Australia,English,DevOps,10,50,1.5,no,79
+FL250745,male,53,Indonesia,Indonesian,AI,28,50,2.9,yes,79
+FL250746,untold,59,Mexico,Spanish,AI,0,100,0.0,yes,87
+FL250747,female,44,Netherlands,Dutch,Machine Learning,19,40,4.9,no,79
+FL250748,male,35,Egypt,Arabic,Blockchain Development,9,50,3.0,no,71
+FL250749,female,42,China,Mandarin,Machine Learning,5,30,4.9,yes,87
+FL250750,female,58,South Korea,Korean,Blockchain Development,0,30,4.6,no,70
+FL250751,male,41,Netherlands,Dutch,AI,21,100,2.2,yes,79
+FL250752,untold,40,Argentina,Spanish,Web Development,0,40,2.5,yes,79
+FL250753,female,23,Canada,English,Blockchain Development,0,30,1.1,yes,79
+FL250754,male,51,China,Mandarin,Blockchain Development,17,40,4.5,yes,79
+FL250755,female,42,France,French,AI,21,52,2.5,yes,79
+FL250756,male,26,Japan,Japanese,Data Analysis,7,75,2.9,no,79
+FL250757,female,49,Indonesia,Indonesian,AI,22,75,0.0,yes,79
+FL250758,untold,37,Italy,Italian,DevOps,11,75,3.5,no,79
+FL250759,male,31,Australia,English,AI,1,40,4.5,no,79
+FL250760,male,51,South Korea,Korean,Mobile Apps,5,40,1.7,yes,79
+FL250761,male,60,China,Mandarin,DevOps,40,50,4.6,yes,79
+FL250762,male,51,Canada,English,Blockchain Development,19,50,2.5,yes,79
+FL250763,male,37,Germany,German,Graphic Design,12,52,4.9,yes,79
+FL250764,untold,52,India,Hindi,Blockchain Development,7,40,2.2,unknown,79
+FL250765,male,27,Indonesia,Indonesian,Blockchain Development,4,20,2.5,no,79
+FL250766,male,48,Australia,English,Graphic Design,24,40,2.2,no,79
+FL250767,female,22,Japan,Japanese,Data Analysis,1,30,3.3,yes,79
+FL250768,female,48,Germany,German,Mobile Apps,28,30,4.9,no,79
+FL250769,female,54,United States,English,Mobile Apps,19,75,0.0,unknown,79
+FL250770,female,52,South Korea,Korean,Data Analysis,4,50,2.5,no,79
+FL250771,untold,39,Turkey,Turkish,Web Development,20,100,2.5,yes,79
+FL250772,female,54,Russia,Russian,Mobile Apps,19,30,4.0,unknown,79
+FL250773,female,22,United States,English,Cybersecurity,1,20,4.8,no,79
+FL250774,female,29,South Africa,Afrikaans,Mobile Apps,8,50,0.0,no,79
+FL250775,male,23,Spain,Spanish,DevOps,3,30,1.6,yes,79
+FL250776,female,58,Mexico,Spanish,DevOps,30,50,1.3,yes,79
+FL250777,female,56,China,Mandarin,Blockchain Development,3,40,4.1,yes,79
+FL250778,male,48,Turkey,Turkish,Web Development,19,40,1.5,no,79
+FL250779,female,31,Russia,Russian,Mobile Apps,11,40,4.3,yes,79
+FL250780,male,44,Australia,English,Machine Learning,26,50,1.6,unknown,79
+FL250781,female,42,Egypt,Arabic,Mobile Apps,10,100,3.7,yes,79
+FL250782,male,59,United States,English,Cybersecurity,17,50,1.4,yes,79
+FL250783,female,40,Argentina,Spanish,Blockchain Development,9,100,4.5,yes,83
+FL250784,male,21,China,Mandarin,Data Analysis,0,40,3.7,no,79
+FL250785,male,53,United Kingdom,English,DevOps,5,75,1.1,no,92
+FL250786,male,35,Argentina,Spanish,Mobile Apps,15,52,3.7,no,79
+FL250787,female,25,Brazil,Portuguese,Machine Learning,3,50,3.2,yes,79
+FL250788,untold,23,Italy,Italian,UI/UX Design,1,30,5.0,no,79
+FL250789,female,56,Egypt,Arabic,Graphic Design,13,30,0.0,unknown,77
+FL250790,untold,31,Mexico,Spanish,UI/UX Design,6,52,3.5,no,79
+FL250791,male,24,United States,English,Cybersecurity,4,50,3.1,no,79
+FL250792,female,35,Brazil,Portuguese,Cybersecurity,7,52,3.9,no,79
+FL250793,female,20,Spain,Spanish,AI,1,52,3.5,no,79
+FL250794,male,26,Australia,English,Data Analysis,5,100,2.5,yes,79
+FL250795,male,54,United Kingdom,English,DevOps,29,40,3.1,yes,79
+FL250796,male,53,Russia,Russian,Cybersecurity,12,100,4.7,yes,79
+FL250797,female,33,Canada,English,DevOps,4,52,1.9,no,73
+FL250798,male,43,Netherlands,Dutch,Web Development,12,52,1.6,yes,79
+FL250799,male,37,Canada,English,DevOps,3,20,2.5,no,79
+FL250800,untold,58,France,French,Data Analysis,15,20,3.5,unknown,79
+FL250801,female,39,Spain,Spanish,Mobile Apps,15,50,2.5,no,79
+FL250802,untold,43,Turkey,Turkish,Graphic Design,13,20,1.2,yes,69
+FL250803,female,40,Spain,Spanish,Blockchain Development,20,30,2.5,no,90
+FL250804,female,51,United Kingdom,English,Machine Learning,30,75,2.5,yes,79
+FL250805,untold,23,Germany,German,AI,4,50,4.5,no,79
+FL250806,female,31,Indonesia,Indonesian,Graphic Design,11,20,2.5,yes,79
+FL250807,female,44,Russia,Russian,Web Development,3,20,5.0,yes,79
+FL250808,male,56,Germany,German,Mobile Apps,23,75,3.9,yes,79
+FL250809,female,48,Australia,English,Cybersecurity,5,100,1.8,yes,79
+FL250810,female,46,Russia,Russian,Web Development,28,30,4.2,yes,79
+FL250811,male,21,Egypt,Arabic,AI,0,20,2.6,no,79
+FL250812,male,52,Russia,Russian,Data Analysis,30,30,2.0,yes,79
+FL250813,female,39,Russia,Russian,Graphic Design,20,75,2.7,yes,79
+FL250814,female,31,Australia,English,Mobile Apps,0,30,2.3,no,79
+FL250815,male,22,South Korea,Korean,UI/UX Design,4,40,3.8,yes,79
+FL250816,female,38,United Kingdom,English,UI/UX Design,10,40,2.5,no,79
+FL250817,male,44,Argentina,Spanish,Graphic Design,24,75,4.6,no,79
+FL250818,male,53,Indonesia,Indonesian,Machine Learning,21,100,3.4,no,79
+FL250819,male,22,China,Mandarin,Data Analysis,2,20,2.5,no,79
+FL250820,female,40,India,Hindi,Blockchain Development,14,75,0.0,yes,79
+FL250821,untold,49,China,Mandarin,Mobile Apps,15,40,3.9,no,79
+FL250822,male,30,Australia,English,UI/UX Design,11,30,4.2,no,79
+FL250823,untold,37,Japan,Japanese,AI,6,20,2.5,unknown,79
+FL250824,untold,21,Egypt,Arabic,Graphic Design,2,100,3.6,no,85
+FL250825,male,20,South Korea,Korean,AI,1,50,2.5,yes,79
+FL250826,untold,20,China,Mandarin,Data Analysis,2,40,2.1,no,79
+FL250827,male,20,Argentina,Spanish,Machine Learning,2,20,3.9,no,79
+FL250828,female,26,Russia,Russian,Machine Learning,2,40,0.0,unknown,79
+FL250829,untold,50,South Korea,Korean,Web Development,12,75,0.0,no,75
+FL250830,male,50,Spain,Spanish,AI,28,30,1.8,unknown,79
+FL250831,female,54,Indonesia,Indonesian,AI,4,20,1.1,yes,79
+FL250832,untold,54,Spain,Spanish,Blockchain Development,3,20,1.6,yes,79
+FL250833,female,34,Egypt,Arabic,Machine Learning,4,30,3.1,unknown,79
+FL250834,female,20,Italy,Italian,DevOps,1,50,3.4,yes,79
+FL250835,untold,29,Germany,German,AI,8,40,3.1,no,79
+FL250836,untold,57,United Kingdom,English,DevOps,11,75,2.3,no,79
+FL250837,female,36,Netherlands,Dutch,AI,8,40,2.5,no,79
+FL250838,male,51,South Korea,Korean,Web Development,32,50,3.2,no,88
+FL250839,male,44,India,Hindi,UI/UX Design,4,30,0.0,no,79
+FL250840,male,58,Spain,Spanish,Cybersecurity,33,30,3.3,yes,79
+FL250841,female,38,South Africa,Afrikaans,Mobile Apps,14,52,1.1,yes,79
+FL250842,male,24,United States,English,UI/UX Design,6,30,4.6,yes,79
+FL250843,female,30,Turkey,Turkish,Blockchain Development,5,30,2.5,no,79
+FL250844,male,25,Indonesia,Indonesian,Cybersecurity,3,75,2.5,no,79
+FL250845,male,54,Indonesia,Indonesian,Mobile Apps,17,100,0.0,no,79
+FL250846,untold,54,Italy,Italian,Cybersecurity,9,20,0.0,yes,79
+FL250847,female,53,France,French,Graphic Design,16,40,0.0,no,79
+FL250848,untold,22,Russia,Russian,AI,3,75,3.4,yes,79
+FL250849,untold,23,Mexico,Spanish,Data Analysis,2,20,1.3,no,79
+FL250850,female,47,France,French,Cybersecurity,16,50,1.9,no,79
+FL250851,male,24,France,French,Web Development,6,50,1.4,yes,63
+FL250852,female,57,India,Hindi,UI/UX Design,10,100,4.3,no,79
+FL250853,male,48,Spain,Spanish,Graphic Design,16,30,2.5,no,79
+FL250854,female,21,Turkey,Turkish,UI/UX Design,0,100,4.3,no,79
+FL250855,male,33,Japan,Japanese,AI,13,75,0.0,yes,79
+FL250856,male,41,Turkey,Turkish,DevOps,12,52,1.3,no,79
+FL250857,male,40,Australia,English,Cybersecurity,13,50,2.9,no,79
+FL250858,female,40,Mexico,Spanish,Graphic Design,22,40,4.3,no,79
+FL250859,female,20,United States,English,Graphic Design,1,52,2.7,no,94
+FL250860,female,42,Mexico,Spanish,Web Development,11,50,4.2,unknown,79
+FL250861,male,32,Canada,English,Blockchain Development,12,40,0.0,yes,79
+FL250862,male,60,Japan,Japanese,AI,11,20,2.2,no,79
+FL250863,male,46,Egypt,Arabic,Machine Learning,12,50,4.7,yes,79
+FL250864,untold,29,China,Mandarin,DevOps,0,30,0.0,no,79
+FL250865,female,39,Brazil,Portuguese,Mobile Apps,18,20,2.5,yes,79
+FL250866,male,55,Russia,Russian,Mobile Apps,2,50,3.9,yes,79
+FL250867,male,55,Turkey,Turkish,Cybersecurity,11,100,1.2,yes,79
+FL250868,male,40,Indonesia,Indonesian,Data Analysis,2,75,4.5,yes,79
+FL250869,female,56,China,Mandarin,UI/UX Design,35,40,2.7,yes,79
+FL250870,male,57,Mexico,Spanish,Mobile Apps,21,75,2.0,no,79
+FL250871,female,56,Russia,Russian,DevOps,3,40,1.7,no,79
+FL250872,female,49,Germany,German,Mobile Apps,24,75,3.0,yes,79
+FL250873,male,26,Spain,Spanish,Blockchain Development,11,75,2.1,yes,79
+FL250874,female,36,South Korea,Korean,UI/UX Design,0,75,1.5,unknown,79
+FL250875,male,20,Russia,Russian,Web Development,2,30,1.7,yes,79
+FL250876,female,40,Spain,Spanish,AI,11,52,1.2,yes,79
+FL250877,untold,30,India,Hindi,Mobile Apps,6,75,0.0,no,79
+FL250878,male,51,Australia,English,Graphic Design,21,20,2.5,yes,79
+FL250879,male,46,United States,English,UI/UX Design,24,40,3.3,yes,79
+FL250880,female,25,South Korea,Korean,AI,6,20,2.1,no,79
+FL250881,untold,53,Netherlands,Dutch,Web Development,32,50,2.5,yes,79
+FL250882,female,50,Egypt,Arabic,Mobile Apps,31,100,2.9,yes,79
+FL250883,untold,45,South Korea,Korean,AI,11,20,3.3,yes,79
+FL250884,female,48,Canada,English,Cybersecurity,24,100,4.8,yes,79
+FL250885,male,30,Indonesia,Indonesian,DevOps,11,100,4.5,unknown,79
+FL250886,female,33,Netherlands,Dutch,UI/UX Design,6,50,3.1,no,79
+FL250887,female,50,United Kingdom,English,DevOps,11,52,4.9,yes,79
+FL250888,female,24,Indonesia,Indonesian,Data Analysis,11,20,0.0,no,79
+FL250889,untold,38,Italy,Italian,Web Development,14,75,1.5,no,79
+FL250890,male,56,Japan,Japanese,DevOps,2,75,2.4,no,79
+FL250891,female,41,Russia,Russian,DevOps,2,100,4.5,no,75
+FL250892,male,40,Italy,Italian,UI/UX Design,11,100,2.5,yes,80
+FL250893,female,42,Germany,German,Graphic Design,13,30,3.3,unknown,79
+FL250894,male,26,India,Hindi,Blockchain Development,7,75,3.0,unknown,79
+FL250895,female,44,Canada,English,Cybersecurity,25,75,2.7,yes,78
+FL250896,male,46,Canada,English,Graphic Design,20,20,1.2,no,79
+FL250897,untold,36,United States,English,UI/UX Design,8,50,4.3,no,79
+FL250898,male,26,Netherlands,Dutch,AI,6,40,1.3,no,79
+FL250899,untold,21,Germany,German,UI/UX Design,3,50,4.6,yes,79
+FL250900,female,39,Indonesia,Indonesian,UI/UX Design,18,50,2.1,no,75
+FL250901,female,37,United States,English,Blockchain Development,18,40,4.5,no,79
+FL250902,female,47,Russia,Russian,UI/UX Design,3,40,4.4,yes,79
+FL250903,female,53,Russia,Russian,Graphic Design,32,20,0.0,no,79
+FL250904,untold,53,Argentina,Spanish,Mobile Apps,19,20,1.3,no,79
+FL250905,untold,21,India,Hindi,Data Analysis,2,50,2.6,no,79
+FL250906,untold,35,United Kingdom,English,Blockchain Development,0,52,2.5,yes,85
+FL250907,male,31,Argentina,Spanish,Machine Learning,13,40,1.2,no,62
+FL250908,female,55,South Korea,Korean,AI,2,30,3.1,yes,79
+FL250909,female,59,Turkey,Turkish,Web Development,11,75,2.3,yes,79
+FL250910,male,59,France,French,Cybersecurity,17,100,4.0,no,79
+FL250911,male,47,India,Hindi,Blockchain Development,10,75,1.9,unknown,79
+FL250912,untold,53,South Africa,Afrikaans,Machine Learning,26,75,2.4,yes,79
+FL250913,male,49,South Africa,Afrikaans,Data Analysis,11,30,2.5,yes,79
+FL250914,female,50,South Africa,Afrikaans,Mobile Apps,8,50,3.7,yes,79
+FL250915,untold,59,South Korea,Korean,Machine Learning,22,100,1.1,no,79
+FL250916,male,33,Turkey,Turkish,Data Analysis,8,75,2.3,yes,79
+FL250917,female,45,Canada,English,Web Development,22,40,3.7,yes,79
+FL250918,untold,36,Italy,Italian,Graphic Design,14,30,1.9,no,79
+FL250919,untold,46,South Africa,Afrikaans,UI/UX Design,6,30,1.5,no,79
+FL250920,untold,53,Turkey,Turkish,Graphic Design,14,30,0.0,no,79
+FL250921,female,24,United States,English,Web Development,2,30,3.6,unknown,79
+FL250922,untold,49,Spain,Spanish,DevOps,4,75,2.1,unknown,79
+FL250923,female,49,South Korea,Korean,AI,4,75,2.9,no,79
+FL250924,female,49,South Korea,Korean,Mobile Apps,24,100,3.6,yes,79
+FL250925,female,58,Brazil,Portuguese,Blockchain Development,29,30,3.3,yes,79
+FL250926,male,50,South Africa,Afrikaans,UI/UX Design,13,52,2.5,yes,79
+FL250927,male,27,South Africa,Afrikaans,DevOps,1,100,3.7,yes,61
+FL250928,female,20,South Korea,Korean,Machine Learning,11,30,4.6,yes,79
+FL250929,male,52,Russia,Russian,Blockchain Development,15,40,0.0,yes,79
+FL250930,female,22,France,French,Machine Learning,2,30,2.0,no,79
+FL250931,female,38,Turkey,Turkish,Web Development,14,100,1.7,no,79
+FL250932,untold,21,Canada,English,Graphic Design,0,100,3.0,no,79
+FL250933,male,41,Australia,English,AI,15,40,3.4,no,79
+FL250934,untold,33,Indonesia,Indonesian,Blockchain Development,6,40,3.2,yes,79
+FL250935,female,38,Mexico,Spanish,Mobile Apps,11,52,2.8,unknown,91
+FL250936,female,26,Russia,Russian,DevOps,8,20,4.1,yes,79
+FL250937,female,43,Netherlands,Dutch,AI,3,20,0.0,yes,79
+FL250938,female,21,Italy,Italian,Cybersecurity,0,52,0.0,yes,79
+FL250939,male,47,South Korea,Korean,Mobile Apps,7,30,2.5,unknown,69
+FL250940,male,35,Spain,Spanish,Graphic Design,6,40,2.5,yes,79
+FL250941,female,37,Indonesia,Indonesian,Mobile Apps,9,30,2.7,yes,79
+FL250942,female,38,Brazil,Portuguese,AI,15,40,4.0,unknown,79
+FL250943,male,40,Canada,English,Data Analysis,20,20,2.5,no,79
+FL250944,female,46,Brazil,Portuguese,Data Analysis,16,75,0.0,no,79
+FL250945,male,56,Egypt,Arabic,DevOps,22,30,2.5,no,79
+FL250946,male,24,Turkey,Turkish,Graphic Design,2,52,1.6,no,79
+FL250947,male,40,Mexico,Spanish,AI,1,75,0.0,yes,79
+FL250948,female,38,Turkey,Turkish,Mobile Apps,8,30,4.0,yes,79
+FL250949,female,28,France,French,DevOps,8,50,2.5,yes,79
+FL250950,male,25,Brazil,Portuguese,DevOps,7,20,3.8,unknown,79
+FL250951,male,41,United Kingdom,English,DevOps,8,50,4.8,no,79
+FL250952,female,45,Mexico,Spanish,Data Analysis,6,40,2.0,yes,79
+FL250953,male,47,Turkey,Turkish,DevOps,16,100,3.3,no,79
+FL250954,female,59,United Kingdom,English,Data Analysis,40,40,2.5,yes,70
+FL250955,female,25,Canada,English,Blockchain Development,6,100,2.5,yes,78
+FL250956,male,27,Australia,English,Web Development,3,50,2.5,yes,79
+FL250957,female,57,Australia,English,AI,5,100,0.0,yes,79
+FL250958,female,34,Turkey,Turkish,UI/UX Design,12,20,1.6,yes,79
+FL250959,male,55,France,French,UI/UX Design,33,50,0.0,no,79
+FL250960,untold,21,Egypt,Arabic,Blockchain Development,1,100,0.0,yes,79
+FL250961,male,53,Netherlands,Dutch,DevOps,27,20,4.7,yes,71
+FL250962,female,21,Germany,German,UI/UX Design,1,100,0.0,yes,79
+FL250963,female,36,Brazil,Portuguese,Web Development,11,20,4.1,no,79
+FL250964,untold,40,Germany,German,AI,2,30,1.3,yes,79
+FL250965,female,59,United Kingdom,English,UI/UX Design,40,100,2.6,unknown,79
+FL250966,male,45,Netherlands,Dutch,Cybersecurity,4,20,2.7,unknown,79
+FL250967,male,44,South Korea,Korean,Machine Learning,9,40,2.5,no,79
+FL250968,female,36,United Kingdom,English,Cybersecurity,13,30,3.6,no,79
+FL250969,female,26,India,Hindi,Graphic Design,1,75,3.0,yes,79
+FL250970,male,49,India,Hindi,Web Development,1,52,0.0,no,79
+FL250971,male,29,France,French,Mobile Apps,3,40,0.0,yes,79
+FL250972,male,32,France,French,Graphic Design,1,40,3.1,yes,79
+FL250973,male,24,Indonesia,Indonesian,Blockchain Development,3,30,3.9,no,79
+FL250974,male,35,South Korea,Korean,DevOps,14,30,1.6,yes,79
+FL250975,untold,43,Spain,Spanish,Blockchain Development,2,52,1.8,no,79
+FL250976,untold,53,South Korea,Korean,Machine Learning,27,100,3.7,no,79
+FL250977,female,38,Russia,Russian,DevOps,7,75,2.5,no,79
+FL250978,male,57,United Kingdom,English,Cybersecurity,29,75,4.1,no,79
+FL250979,male,27,China,Mandarin,Blockchain Development,5,75,1.4,yes,79
+FL250980,male,43,Argentina,Spanish,Web Development,2,100,1.1,yes,79
+FL250981,untold,48,Canada,English,Data Analysis,18,40,3.9,unknown,79
+FL250982,male,26,Brazil,Portuguese,Cybersecurity,8,20,3.6,no,79
+FL250983,female,40,South Africa,Afrikaans,Graphic Design,0,40,0.0,no,79
+FL250984,untold,50,Italy,Italian,Data Analysis,16,75,4.5,no,69
+FL250985,male,48,South Africa,Afrikaans,Web Development,8,50,2.5,yes,79
+FL250986,male,60,Spain,Spanish,Blockchain Development,39,20,1.4,yes,79
+FL250987,male,26,Egypt,Arabic,Machine Learning,11,50,0.0,yes,81
+FL250988,female,35,South Korea,Korean,Graphic Design,16,100,4.3,yes,79
+FL250989,male,23,United States,English,Blockchain Development,4,100,2.2,yes,64
+FL250990,male,37,Australia,English,Graphic Design,4,75,3.2,no,79
+FL250991,female,21,Argentina,Spanish,AI,2,100,3.7,yes,73
+FL250992,female,58,Germany,German,UI/UX Design,37,50,4.9,no,79
+FL250993,female,52,Indonesia,Indonesian,Mobile Apps,32,75,3.2,no,79
+FL250994,untold,46,Russia,Russian,Mobile Apps,8,20,2.2,unknown,89
+FL250995,female,34,South Africa,Afrikaans,DevOps,8,30,3.9,yes,79
+FL250996,male,56,Turkey,Turkish,DevOps,13,100,0.0,no,79
+FL250997,female,26,Germany,German,Blockchain Development,6,40,2.8,no,82
+FL250998,untold,37,Japan,Japanese,Data Analysis,15,75,2.5,no,79
+FL250999,male,46,Russia,Russian,Machine Learning,22,100,2.8,yes,97
+FL251000,female,36,Mexico,Spanish,UI/UX Design,18,20,1.7,yes,72
