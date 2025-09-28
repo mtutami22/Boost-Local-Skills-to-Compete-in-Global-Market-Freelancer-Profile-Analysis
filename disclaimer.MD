@@ -1,19 +1,19 @@
 # Project Nature
-```This is a portfolio project created for demonstration purposes only. The analysis, insights, and recommendations presented are based on simulated data and should not be used for real-world business decisions or policy-making.```
+This is a portfolio project created for demonstration purposes only. The analysis, insights, and recommendations presented are based on simulated data and should not be used for real-world business decisions or policy-making.
 
 # Data Source
-```Dataset obtained from Kaggle (public repository)
+Dataset obtained from Kaggle (public repository)
 
 Data is fictional and does not represent actual freelancer information.
 
-https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset```
+https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset
 
 # Limitations
-```- Analysis results are based on sample data and may not reflect true market conditions.
+- Analysis results are based on sample data and may not reflect true market conditions.
 
 - Statistical significance testing was not conducted due to the nature of dummy data.
 
-- Conclusions are illustrative and intended to demonstrate analytical capabilities only.```
+- Conclusions are illustrative and intended to demonstrate analytical capabilities only.
 
 # Purpose
 ```- This project serves to showcase:
@@ -34,4 +34,5 @@ https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset```
 # Contact
 
 ```For questions about this portfolio project, please contact: karier.mtutami22@gmail.com / +6285766222502```
+
 
